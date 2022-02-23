@@ -1,0 +1,4 @@
+---
+ansible_user: wheel
+ansible_private_key_file: "{{ vault_ansible_private_key_file }}"
+ansible_public_key_file: "{{ vault_ansible_public_key_file }}"

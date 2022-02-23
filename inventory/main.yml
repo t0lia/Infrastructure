@@ -1,0 +1,6 @@
+---
+
+all:
+  hosts:
+    lab1:
+      ansible_host: host.dev

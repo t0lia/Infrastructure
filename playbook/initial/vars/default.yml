@@ -1,0 +1,3 @@
+---
+create_user: wheel
+sys_packages: [ 'curl', 'vim', 'git', 'ufw', 'make']
